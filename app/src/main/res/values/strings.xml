@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Android Definitions</string>
+    <string name="text1">Android is a stack of software for mobile devices which includes an Operating System middleware and some key application.the application executes within its own process and its own instances of DVM Dalvik Virtual Machine.</string>
+    <string name="text2">The services is like an activity to do background functionalities without UI interaction.</string>
+    <string name="text3">Activity performs actions on the screen.IF you want to do any operations,we can do with activity.</string>
+    <string name="text4">Activity packaging key is compressed with classes,UIs,supportive assests and manifest.All files are compresses to a single file is calles APK.</string>
+    <string name="text5">It is connected to either the external world of application or internal world of application,such as opening a pdf is an intent and connect to the web browser etc.</string>
+    <string name="text6">Android Explicit intent specifies the component to be invoked from activity.In other words,we can call anothr activity in android by explicit intent.</string>
+    <string name="text7">Implicit doesnt specify the component. In such case ,intent provides information of available components provided by the system that is to be invoked.</string>
+    <string name="text8">ADT stands for ANDROID DEVELOPMENT TOOL. this is useful to develope the applications and test the applications.</string>
+</resources>
